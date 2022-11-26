@@ -1,0 +1,12 @@
+# configuration for pytorch 1.9.0 on RTX 3090
+
+cudatoolkit===11.1.74 
+cudnn===8.0.4 
+pytorch===1.9.0 
+transformers===4.8.2
+tqdm===4.46.0 
+tensorboard===2.3.0 
+unidecode>=1.0 
+wheel===0.35.1 
+pytest>=5.1.1 
+numpy===1.21.0
